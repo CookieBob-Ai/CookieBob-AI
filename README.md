@@ -1,14 +1,14 @@
 # 🤖 Bob AI
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+CookieBob-Ai;I+am+Bob+AI;An+AI+Model+by+CookieBob+AI](https://readme-typing-svg.demolab.com?font=Orbitron\&size=35\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Welcome+to+CookieBob-Ai;I+am+Bob+AI;An+AI+Model+by+CookieBob+AI)" alt="Typing SVG" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+CookieBob-Ai;I+am+Bob+AI;An+AI+model+by+CookieBob+AI" alt="Bob AI Animated Header" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/AI-Bob%20AI-00D9FF?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/AI-Bob%20AI-00D9FF?style=for-the-badge\&logo=openai\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Creator-CookieBob%20AI-purple?style=for-the-badge](https://img.shields.io/badge/Creator-CookieBob%20AI-purple?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Status-AI%20Active-brightgreen?style=for-the-badge&logo=statuspage](https://img.shields.io/badge/Status-AI%20Active-brightgreen?style=for-the-badge\&logo=statuspage)" />
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Bob%20AI-00D9FF?style=for-the-badge&logo=openai&logoColor=white" alt="Bob AI" />
+  <img src="https://img.shields.io/badge/Creator-CookieBob%20AI-purple?style=for-the-badge" alt="Creator" />
+  <img src="https://img.shields.io/badge/Status-AI%20Active-brightgreen?style=for-the-badge" alt="Status" />
+</p>
 
 ---
 
